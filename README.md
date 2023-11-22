@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h1>i am harrison</h1>
-<hr>
+
 <img src="https://harrisonyg.github.io/loader/images/Untitled-design.gif"
- 
+ <hr>
 
 - 🔭 I’m currently working on PropVR
 - 🌱 I’m currently learning Vue and MongoDB
