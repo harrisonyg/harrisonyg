@@ -10,5 +10,5 @@
 - 💬 Ask me about 💎
 - 📫 How to reach me: harrisonyg08@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Im OWL 🦉
+- ⚡ Fun fact: Im an OWL 🦉
 
